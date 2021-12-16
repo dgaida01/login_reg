@@ -1,0 +1,49 @@
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+ 
+.flush{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    }
+.topmarginpush{
+        margin-top: 50px;
+    }
+.leftmarginpush{
+        margin-left: 50px;
+    }    
+
+.logSizing{
+    width: 250px;
+    min-height: 500px;
+}
+.regSizing{
+    width: 250px;
+    min-height: 500px;
+}
+.green{
+    color: green;
+}
+.white{
+    color: white;
+}
+.bg-green{
+    background-color: green;
+}
+.bg-grey{
+    background-color: #34393e ;
+}
+.blue{
+    color: #057afe;
+}
+.bg-blue{
+    background-color: #057afe;
+}
+.flashColoring{
+color: crimson;
+background-color: rgb(247, 183, 195);
+font-weight:bold
+}
